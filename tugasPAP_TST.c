@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Tracer Study Tracker
+
 void hitungTracerStudy(){
     int NL, NJ, PBS;
     float PJ, Prmin, skorTracer;
